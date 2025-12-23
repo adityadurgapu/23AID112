@@ -1,5 +1,5 @@
 #Creating a different Datatypes in python.
-name = str(input("Enter  your name:"))
+name = (input("Enter  your name:"))
 age = int(input("Enter your age:"))
 height = float(input("Enter your height:"))
 verify = (input("are you a student? (yes/no):"))
